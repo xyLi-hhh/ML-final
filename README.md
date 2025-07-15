@@ -56,6 +56,12 @@ LSTM：
 python A_LSTM_test.py
 ```
 
+DFT:
+
+```bash
+python DFT.py
+```
+
 ## 主要文件说明
 
 - `process_data.py`：数据清洗与特征工程
